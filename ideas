@@ -6,4 +6,8 @@ X Simuate brownian motion of a larger particle amongst a bunch of small ones
 
 
 - take in an image of the night sky at a particular location and depending on where the objects are in the sky, calculate the location of the 
-  observer where the picture was taken (not sure if possible). 
+  observer where the picture was taken (not sure if possible).  
+
+- make a more thorough and accurate solar prediction calculator than my previous python program.  
+
+- See if its possible to do ray tracing around a blackhole, as a grand resumé type project
