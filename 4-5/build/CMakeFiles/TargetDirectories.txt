@@ -1,9 +1,0 @@
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/CMakeFiles/solar_eclipse.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/CMakeFiles/edit_cache.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/CMakeFiles/rebuild_cache.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/CMakeFiles/simulation.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/CMakeFiles/edit_cache.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/CMakeFiles/rebuild_cache.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/rungekutta/CMakeFiles/rungekutta.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/rungekutta/CMakeFiles/edit_cache.dir
-/Users/starman/Desktop/programming-spring2022/applied_comp_physics/solar_eclipsev2/build/simulation/rungekutta/CMakeFiles/rebuild_cache.dir
