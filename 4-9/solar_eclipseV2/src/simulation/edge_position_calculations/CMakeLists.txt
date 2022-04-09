@@ -1,0 +1,4 @@
+
+
+add_library(edge_position_calculations STATIC edge_position_calculations.cpp edge_position_calculations.hpp)
+
