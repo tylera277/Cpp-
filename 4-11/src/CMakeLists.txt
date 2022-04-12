@@ -1,0 +1,11 @@
+
+cmake_minimum_required(VERSION 3.21.1)
+project(solar_eclipse)
+
+
+add_subdirectory("simulation")
+
+
+add_executable(solar_eclipse main.cpp)
+
+target_link_libraries(solar_eclipse PUBLIC simulation)

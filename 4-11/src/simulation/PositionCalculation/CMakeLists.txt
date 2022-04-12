@@ -1,0 +1,2 @@
+
+add_library(PositionCalculation STATIC PositionCalculation.cpp PositionCalculation.hpp)
